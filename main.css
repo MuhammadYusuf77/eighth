@@ -1,0 +1,289 @@
+.nav {
+    display: inline-block;
+}
+
+.logo {
+    margin-right: 700px;
+}
+
+.hero {
+    text-align: center;
+    background-image: url('./images/5x3\ tochka.jpg')   ;
+    background-repeat: no-repeat;
+    background-size: auto;
+    background-position: calc(50% - 720px) calc(50% - 70px);
+}
+
+.header {
+    text-align: center;
+}
+
+.nav_link {
+    display: inline-block;
+    margin-left: 20px;
+}
+
+.nav_link-a {
+    text-decoration: none;
+    color: #1F1534;
+}
+
+.bottom_text { 
+    width: 952px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 78px;
+}
+
+.hero_link {
+    display: inline-block;
+    width: 200px;
+    border: 1.4px solid #458FF6;
+    border-radius: 55px;
+    color: #fff;
+    background-color: #458FF6;
+    text-decoration: none;
+    text-align: center;
+    padding-top: 18px;
+    padding-bottom: 18px;
+}
+
+.nav_item {
+    display: inline-block;
+    border: solid 1.4px rgba(233, 226, 226, 0.518);
+    width: 350px;
+    border-radius: 20px;
+    text-align: start;
+    padding: 54px 45px 46px 39px;
+}
+
+.text {
+    text-align: center;
+}
+
+.box {
+    display: inline-block;
+    vertical-align: middle;
+    width: 445px;
+    margin-right: 109px;
+    text-align: start;
+}
+
+.hero_img {
+    vertical-align: middle;
+}
+
+.leenk {
+    margin-top: 71px;
+    margin-bottom: 258px;
+}
+
+.link {
+    display: inline-block;
+    width: 200px;
+    border: 1.4px solid #458FF6;
+    border-radius: 55px;
+    color: #458FF6;
+    text-decoration: none;
+    text-align: center;
+    padding-top: 18px;
+    padding-bottom: 18px;
+}
+
+.section {
+    text-align: center;
+}
+
+.section_img {
+    vertical-align: middle;
+    width: 650px;
+    height: 477px;
+    margin-right: 130px;
+}
+
+.section_inner {
+    vertical-align: middle;
+    display: inline-block;
+    width: 486px;
+    text-align: start;
+}
+
+.line3 {
+    background-color: #fff;
+}
+
+.line_box {
+    text-align: center;
+    margin-bottom: 33px;
+    margin-top: 20px;
+    background-image: url('./images/doira\ chap\ tomon.jpg');
+    background-repeat: no-repeat;
+    background-size: auto;
+    background-position: calc(50% - 500px) calc(50%);
+}
+
+.line2 {
+    display: inline-block;
+    width: 56px;
+    height: 2px;
+    background-color: black;
+}
+
+.section2 {
+    text-align: center;
+}
+
+.section2_inner {
+    vertical-align: middle;
+    display: inline-block;
+    width: 420px;
+    text-align: start;
+    margin-right: 130px;
+}
+
+.section2_img {
+    vertical-align: middle;
+}
+
+.comment { 
+    margin: 0;
+    padding: 0;
+    border: 1.4px solid #67C3F3;
+    border-radius: 24px;
+    text-align: center;
+    background-color: #67C3F3;
+    padding: 48px 76px 85px 50px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 12   00px;
+}
+
+.comment_photo {
+    vertical-align: middle;
+    margin-bottom: 60px;
+    margin-left: 200px;
+}
+
+.comment_user {
+    vertical-align: middle;
+    display: inline-block;
+    margin-right: 200px;
+    margin-left: 29px;
+    margin-bottom: 50px;
+    color: #fff;
+    text-align: start;
+}
+
+.line_box2 {
+    text-align: start;
+}
+
+.comment_heading {
+    text-align: center;
+    color: #fff;
+}
+
+.comment_q {
+    display: inline-block;
+    vertical-align: middle;
+    width: 420px;
+    text-align: start;
+    margin-bottom: 70px;
+    color: #fff;
+}
+
+.list {
+    list-style: none;
+    display: inline-block;
+}
+
+.comment__out {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    margin-left: 109px;
+    margin-right: 67px;
+}
+
+.list_col {
+    display: inline-block;
+}
+
+.list_col2 {
+    display: inline-block;
+}
+
+.list_col3 {
+    display: inline-block;
+}
+
+.list_col-text {
+    list-style: none;
+    display: inline-block;
+    
+}
+
+.more {
+    text-decoration: none;
+    width: 266;
+}
+
+.list_col-box {
+    width: 251px;
+}
+
+.footer {
+    background-color: #5A98F2;
+}
+
+.footer_logo {
+    display: inline-block;
+    width: 160px;
+    height: 41px;
+}
+
+.footer_text {
+    color: #fff;
+}
+
+.footer_left {
+    width: 391px;
+    color: #fff;
+    vertical-align: middle;
+}
+
+.footer_list {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.footer_item-list {
+
+    list-style: none;
+}
+
+.footer_item-link {
+
+    text-decoration: none;
+    color: #fff;
+}
+
+.footer_heading {
+
+    color: #fff;
+}
+
+.footer_item {
+    display: inline-block;
+}
+
+.footer_item {
+    margin-right: 90px;
+}
+
+.item {
+    margin: 0;
+}
